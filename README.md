@@ -46,6 +46,15 @@
   
  
   <br>
+  
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+  <br>
+  
+  
+  [![Minhaz's Activity Graph ](https://activity-graph.herokuapp.com/graph?username=mdminhaziftekhar&theme=dracula)](https://github.com/mdminhaziftekhar/github-readme-activity-graph)
+<br>
   <br>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
