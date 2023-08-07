@@ -9,8 +9,8 @@
 
 <h1>About Me! 😎</h1>
 
-### I am passionate about computer and computer programming since high school. I have experience in Go lang, Java, C++ / C, Android , Git, Github, MongoDB, MySQL, SQLite database, Room Database etc . I'm currently working as a Software Engineer Intern at JB Coders Ltd. Bangladesh.
-I have plan to become an expert in backend technologies.
+### I am passionate about computer and computer programming since high school. I'm now working in a reputed software company as a Software Engineer. I have professional experience of 1+ years in mobile application development.
+I aim to be among the best of Software Engineers.
 - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than happy to meet you!</b> :)</em>
 
 
